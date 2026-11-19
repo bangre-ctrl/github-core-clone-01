@@ -1,5 +1,9 @@
 # github-core-clone-01 — a GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/bangre-ctrl/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/bangre-ctrl/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A single-process, in-memory forge written in TypeScript for Node 22+,
 using only the Node standard library (`node:http`, `node:crypto`,
 `node:zlib`). It speaks enough of GitHub's surface to be driven by a real
@@ -59,3 +63,7 @@ MAKEFUN_SHOP_TOKEN=test-token-123 node --experimental-strip-types -e \
 - Fetch responses are cached per (repository, wants, haves, shallow,
   depth); objects are content-addressed and immutable, so a cached pack
   can never go stale.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xswhq5be&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
